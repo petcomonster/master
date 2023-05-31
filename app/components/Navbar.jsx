@@ -41,7 +41,7 @@ return (
     </div>
   </div>
   <div class="navbar-center">
-    <a class="btn btn-ghost normal-case text-xl">Sam.Song</a>
+    <a class="btn btn-ghost normal-case text-xl">Next App routing 13.4</a>
   </div>
   <div class="navbar-end">
     <button class="btn btn-ghost btn-circle">
